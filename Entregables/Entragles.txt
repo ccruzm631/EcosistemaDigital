@@ -1,0 +1,40 @@
+2ª. Entrega
+
+A. Cual es el alcance del proyecto durante el GSHACKCHALLENGE?
+El objetivo de esta aplicación es entregar una APP que personalice tus servicios financieros, eligiendo productos y servicios A-Doc:
+La aplicación ayudara al usuario a elegir la sucursal con menor tiempo de espera “termómetro de filas”. Mejorando la experiencia del cliente.
+Contara con un  servicio de Tanda ahorro, para ayudar a Bancarizar a la comunidad y lograr su “inclusión financiera”.
+
+
+B. Tomas en cuenta las necesidades/realidad de los usuarios del mismo
+Cómo?
+Actualmente para cada canal de acceso el cliente tiene que adaptarse al sistema que se le provee, ya que no esta personalizada al perfil del cliente; con esta nueva App el usuario podrá armar su propia cartera de servicios y personalizarla de acuerdo a sus necesidades.
+La App esta planeada en conjunto con el equipo de desarrollador de soluciones  así como con la experiencia del área de Negocio y el resultado es una aplicación que ofrece la facilidad que el usuario actual exige para la contratación de productos financieros.
+
+
+C. Describe la arquitectura técnica del proyecto
+Para este prototipo estamos utilizando:
+* La infraestructura esta en alojada en Cloud.
+* Se utilizara una base de datos relacional.
+* El back-end se desarrollo en TIBCO container edition.
+* El front se desarrollo en Android Studio con java 8, se utilizaron componentes de material desing
+Para el desarrollo final se incluiran los siguientes puntos:
+* La administración se manejara a través de Jenkins para lograr integrar y liberar servicios (docker, kubernetes) de forma automatizada.
+             * La arquitectura incluirá despliegue de API's con un ApiGateway.
+			 
+3ª. Entrega
+ A. Que aprendiste durante la primer edición del #GSHACKCHALLENGE?
+		* Aprendi que el trabajo en equipo es la clave del exito
+		* Delimitar las actividades ayuda a conocer exactamente que tenemmos que hacer.
+		* Las habilidades diferentes de cada miembro del equipo son necesarias.
+ A.1 Liga del repositorio GitHub 
+	https://github.com/ccruzm631/EcosistemaDigital
+	
+ B. Como se organizaron para ejecutar el proyecto? Como se dividieron las responsabilidades?
+	* Utilizamos la metodologia Agil para el desarrolo del proyecto y la organización se definio en roles: SCRUM Master, Product Owner, Developer, QA-tester, diseñadora y arquitecto.
+	
+ c. Que otras funcionalidades le añadirian al proyecto?
+	Machine learning
+
+ 
+
